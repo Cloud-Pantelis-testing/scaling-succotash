@@ -1,3 +1,5 @@
 {
-  "node": 3
+  "dependencies": {
+    "axios": "^0.17.0"
+  }
 }
